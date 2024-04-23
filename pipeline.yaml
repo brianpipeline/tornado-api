@@ -1,0 +1,2 @@
+type: "java21"
+envsToDeployTo: ["dev"]
